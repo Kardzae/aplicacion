@@ -11,4 +11,6 @@ pip install mariadb.
 Página donde se extrajeron las imagenes para los íconos:
 - https://www.flaticon.es/
 
+- crear.ico: https://www.freepng.es/png-rcb3n1/
+
 El íconoED fué creado por el usuario Hernan590.
