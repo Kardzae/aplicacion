@@ -20,6 +20,6 @@ Página donde se extrajeron las imagenes para los íconos:
 - escritura.ico: https://www.flaticon.es/icono-gratis/escritura_864970
 - formulario_icon.ico: https://www.pngwing.com/es/free-png-ptjrh
 - inventario_icon.ico: https://www.flaticon.es/icono-gratis/inventario_2897785?related_id=2897785&origin=search
-- login.ico: https://co.pinterest.com/pin/708331847624093029/
+- login_icon.ico: https://co.pinterest.com/pin/708331847624093029/
 
 El íconoED fué creado por el usuario Hernan590.
