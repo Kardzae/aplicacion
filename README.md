@@ -12,5 +12,6 @@ Página donde se extrajeron las imagenes para los íconos:
 - https://www.flaticon.es/
 
 - crear.ico: https://www.freepng.es/png-rcb3n1/
+- entradas.ico: https://www.flaticon.es/icono-gratis/inventario_3490994?term=inventario&page=1&position=22&page=1&position=22&related_id=3490994&origin=search
 
 El íconoED fué creado por el usuario Hernan590.
