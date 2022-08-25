@@ -18,5 +18,6 @@ Página donde se extrajeron las imagenes para los íconos:
 - cliente.ico: https://www.flaticon.es/icono-gratis/cliente_3126647?term=cliente&page=1&position=6&page=1&position=6&related_id=3126647&origin=search
 - colores.ico: https://www.flaticon.es/icono-gratis/circulo-de-color_1276892
 - escritura.ico: https://www.flaticon.es/icono-gratis/escritura_864970
+- formulario_icon.ico: https://www.pngwing.com/es/free-png-ptjrh
 
 El íconoED fué creado por el usuario Hernan590.
