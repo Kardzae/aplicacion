@@ -17,5 +17,6 @@ Página donde se extrajeron las imagenes para los íconos:
 - ayuda.ico: https://www.flaticon.es/icono-gratis/preguntas-de-conversacion_39993
 - cliente.ico: https://www.flaticon.es/icono-gratis/cliente_3126647?term=cliente&page=1&position=6&page=1&position=6&related_id=3126647&origin=search
 - colores.ico: https://www.flaticon.es/icono-gratis/circulo-de-color_1276892
+- escritura.ico: https://www.flaticon.es/icono-gratis/escritura_864970
 
 El íconoED fué creado por el usuario Hernan590.
